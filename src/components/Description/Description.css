@@ -1,0 +1,15 @@
+.description {
+  background-color: var(--blockColor);
+  border: 1px solid var(--grayColor);
+  border-radius: 15px;
+  min-height: 100%;
+  padding: 10px;
+}
+
+.description__title {
+  color: var(--whiteColor);
+}
+
+.description__text {
+  color: var(--grayColor);
+}
